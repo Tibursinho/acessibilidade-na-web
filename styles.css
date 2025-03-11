@@ -156,6 +156,9 @@ h2 {
     background-color: var(--alto-contraste-fundo);
     color: var(--alto-contraste-texto);
 }
+.alto-contraste .nav-link{
+    color: var(--alto-contraste-link);
+}
 .alto-contraste .botao-inicio,
 .alto-contraste .formulario button,
 .alto-contraste .btn-primary{
